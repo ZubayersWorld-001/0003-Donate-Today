@@ -2,3 +2,23 @@
     margin: 0;
     padding: 0;
 }
+.title-photo{
+    position: relative;
+}
+
+.title-photo img{
+    max-width: 100%;
+    height: auto;
+}
+
+.title-photo-text{
+    position: absolute;
+    width: 450.8px;
+    height: 110px;
+    top: 174px;
+    left: 38%;
+    color: white;
+    text-align: center;    
+}
+
+
