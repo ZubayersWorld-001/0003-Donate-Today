@@ -4,6 +4,7 @@
 }
 .part-1{
     background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.849)), url('images/Rectangle\ 237\ \(1\).png');
+    background-repeat: no-repeat;
     height: 669px;
     width: auto;
     color: white;
@@ -123,4 +124,36 @@ div.donation-5:hover{
     border: 5px solid #FF5959;
     color: #FF5959;
     background-color: #FBE8E4;
+}
+.part-2-3{
+    width: 765px;
+    margin: 10px auto;
+}
+.part-2-3 p{
+    font-weight: 100;
+}
+.part-2-4{
+    display: flex;
+    justify-content: center;
+}
+#button-2{
+    color: white;
+    width: 160px;
+    height: 56px;
+    background-color: #FF5959;
+    border: 1px solid #FF5959;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.part-2-5{
+    width: 691px;
+    height: 130px;
+    margin: 130px auto;
+    text-align: center;
+}
+.part-2-5 h1{
+    margin-bottom: 20px;
 }
