@@ -13,6 +13,7 @@
 .part-1-1{
     padding-top: 174px;
     font-size: 65px;
+    font-weight: bold;
     font-family: 'Inter', sans-serif;
 }
 #button-1{
@@ -25,7 +26,101 @@
     margin-top: 30px;
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
-
 }
-
-
+.part-2-1{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.part-2 p{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+.part-2-2{
+    width: 765px;
+    margin: 50px auto;
+    display:flex;
+    justify-content: space-between;
+    
+ }
+.donation-1{
+    width: 135px;
+    height: 123px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: #FBF3F1;
+}
+div.donation-1:hover{
+    border: 5px solid #FF5959;
+    color: #FF5959;
+    background-color: #FBE8E4;
+    font-size: 22px;
+}
+.donation-2{
+    width: 135px;
+    height: 123px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FBF3F1;
+}
+div.donation-2:hover{
+    border: 5px solid #FF5959;
+    color: #FF5959;
+    background-color: #FBE8E4;
+}
+.donation-3{
+    width: 135px;
+    height: 123px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FBF3F1;
+}
+div.donation-3:hover{
+    border: 5px solid #FF5959;
+    color: #FF5959;
+    background-color: #FBE8E4;
+}
+.donation-4{
+    width: 135px;
+    height: 123px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FBF3F1;
+}
+div.donation-4:hover{
+    border: 5px solid #FF5959;
+    color: #FF5959;
+    background-color: #FBE8E4;
+}
+.donation-5{
+    width: 135px;
+    height: 123px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FBF3F1;
+}
+div.donation-5:hover{
+    border: 5px solid #FF5959;
+    color: #FF5959;
+    background-color: #FBE8E4;
+}
