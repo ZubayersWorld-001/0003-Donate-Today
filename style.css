@@ -13,7 +13,19 @@
 .part-1-1{
     padding-top: 174px;
     font-size: 65px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+#button-1{
+    color: white;
+    width: 160px;
+    height: 56px;
+    background-color: #FF5959;
+    border: 1px solid #FF5959;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+
 }
 
 
