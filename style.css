@@ -2,31 +2,18 @@
     margin: 0;
     padding: 0;
 }
-.title-photo{
-    position: relative;
-}
-
-.title-photo img{
-    max-width: 100%;
-    height: auto;
-}
-
-.title-photo-text{
-    position: absolute;
-    width: 450.8px;
-    height: 110px;
-    top: 174px;
-    left: 38%;
+.part-1{
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.849)), url('images/Rectangle\ 237\ \(1\).png');
+    height: 669px;
+    width: auto;
     color: white;
-    text-align: center;    
+    text-align: center;
 }
 
-.title-photo-button h3{
-    position: absolute;
-    top: 350px;
-    left: 46.549%;
-    color: white;
-    text-decoration: none;
+.part-1-1{
+    padding-top: 174px;
+    font-size: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
