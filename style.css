@@ -157,3 +157,15 @@ div.donation-5:hover{
 .part-2-5 h1{
     margin-bottom: 20px;
 }
+.part-3{
+    
+}
+.package-1{
+    width: 360px;
+    height: 352px;
+    border: 1px solid black;
+}
+.package-1 img{
+    width: 50px;
+    margin-top: 50px;
+}
