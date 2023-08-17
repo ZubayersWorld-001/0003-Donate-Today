@@ -158,14 +158,64 @@ div.donation-5:hover{
     margin-bottom: 20px;
 }
 .part-3{
-    
+    width: 1128px;
+    height: 352px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .package-1{
     width: 360px;
     height: 352px;
     border: 1px solid black;
+    background-color: #4f9da61f;
+    border-radius: 5px;
 }
 .package-1 img{
-    width: 50px;
-    margin-top: 50px;
+    width: 60px;
+    height: 50px;
+    margin-top: 64px;
+    margin-left: 23.46px;
+    margin-bottom: 31.73px;
 }
+.part-3-1{
+    margin-left: 23.46px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 100px;
+    margin-bottom: 15.5px;
+}
+.part-3-2{
+    margin-left: 23.46px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+.package-2{
+    width: 360px;
+    height: 352px;
+    border: 1px solid black;
+    background-color: #ff595923;
+    border-radius: 5px;
+}
+.package-2 img{
+    width: 60px;
+    height: 50px;
+    margin-top: 64px;
+    margin-left: 23.46px;
+    margin-bottom: 31.73px;
+}
+.part-3-3{
+    margin-left: 23.46px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 100px;
+    margin-bottom: 15.5px;
+}
+.part-3-4{
+    margin-left: 23.46px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+    
