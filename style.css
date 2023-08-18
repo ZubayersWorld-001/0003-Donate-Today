@@ -245,7 +245,10 @@ div.donation-5:hover{
 .part-4{
     width: 1032px;
     height: 477px;
-    margin: 135px auto;
+    margin-top: 135px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
 }
 .part-4-1{
     width: 493px;
@@ -255,6 +258,8 @@ div.donation-5:hover{
     font-family: 'Inter', sans-serif;
     font-size: 45px;
     margin-bottom: 20px;
+    margin-top: 52px;
+    margin-right: 83px;
 }
 .part-4-1-2{
     font-family: 'Poppins', sans-serif;
@@ -270,5 +275,98 @@ div.donation-5:hover{
     background-color: #FF5959;
     border-style: none;
 }
+/* part-4 completed */
 
     
+/* part-5 started */
+.part-5{
+    width: 1032px;
+    height: 477px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.part-5-2-1{
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+    margin-bottom: 20px;
+    margin-top: 52px;
+    margin-left: 83px;
+}
+.part-5-2-2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 83px;
+}
+.part-5-2-3{
+    width: 230px;
+    height: 50px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    border-style: none;
+    margin-left: 83px;
+}
+/* part-5 Completed */
+
+
+/* part-6 started */
+.part-6{
+    margin-top: 130px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 691px;
+    height: 130px;
+}
+.part-6-1{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.part-6-2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+.part-7{
+    width: 809px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFF4D6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.part-7-1{ 
+    margin: 0px;
+    width: 432px;
+    height: 48px;
+}
+.part-7-1 input{
+    border-radius: 5px 0 0 5px;
+    width: 275px;
+    height: 48px;
+    padding: 15px;
+    background-color: #D9D9D9;
+    border-style: none;
+    box-sizing: border-box;
+}
+.part-7-1 button{
+    width: 157px;
+    height: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    border-style: none;
+    background-color: #FF5959;
+    margin-left: -5px;
+    border-radius: 0 5px 5px 0;
+}
